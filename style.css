@@ -47,3 +47,9 @@ nav ul li{
     background: #f5f3f3;
     border-radius: 5px;
 }
+
+.image{
+    width: 80vw;
+    margin: 13px 0px;
+    border-radius: 10px;
+}
