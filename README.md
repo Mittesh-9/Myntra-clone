@@ -1,3 +1,3 @@
 # Myntra-clone
 
- Working on the frontend
+ 80 % frontend done
