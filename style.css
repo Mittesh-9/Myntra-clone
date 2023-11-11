@@ -53,3 +53,9 @@ nav ul li{
     margin: 13px 0px;
     border-radius: 10px;
 }
+
+footer{
+    padding: 23px;
+    text-align: center;
+    box-shadow: rgba(0 0 0 / 24%) 0px 3px 8px;
+}
